@@ -1,3 +1,9 @@
+# json-server --watch db.json --port 5000
+( https://github.com/typicode/json-server )
+
+![Image alt](https://github.com/TodaCosta/miniapptool/blob/master/screenAddPost.jpg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
