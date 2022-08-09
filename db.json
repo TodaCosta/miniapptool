@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "title": "Один раз в год",
+      "body": "Один раз в год",
+      "id": 11
+    },
+    {
+      "title": "wwet",
+      "body": "wwet",
+      "id": 12
+    },
+    {
+      "title": "gyhkk",
+      "body": "gyhkk",
+      "id": 13
+    },
+    {
+      "title": "ghjgh j ghj",
+      "body": "ghjgh j ghj",
+      "id": 16
+    },
+    {
+      "title": "летний вечер",
+      "body": "летний вечер",
+      "id": 17
+    },
+    {
+      "title": "react +",
+      "body": "react +",
+      "id": 18
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
